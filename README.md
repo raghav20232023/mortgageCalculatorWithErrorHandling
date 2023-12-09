@@ -3,10 +3,10 @@ It is a mortgage calculator with built in error handling. It is implemented usin
 
 ![image](https://github.com/raghav20232023/mortgageCalculatorWithErrorHandling/assets/153320363/67b38ec6-6b4d-4910-875c-71cefd7976df)
 
-the above statements creates a package com.example and imports two classes 
-1. java.text.NumberFormat :- this class import is used later in the program to format the final obtained answer as a currency instance
+the above statements creates a package com.example and imports two additional packages used later in the program. They are explained as follows :-
+1. java.text.NumberFormat :- this package import is used later in the program to format the final obtained answer as a currency instance
    for better presentability of big numbers
-2. java.util.Scanner :- this class import is used to create scanner object to take input values from the user
+2. java.util.Scanner :- this package import is used to create scanner object to take input values from the user
 
 ![image](https://github.com/raghav20232023/mortgageCalculatorWithErrorHandling/assets/153320363/0baf3e80-abc2-43c7-a11f-b689cab77d5b)
 
